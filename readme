@@ -1,4 +1,17 @@
-Step 1:
-Setup the project file and now we have the audio file
-step 2:
-we have to process the audio data
+Audio Visualizer
+This project is a simple audio visualizer that reads an audio file, processes its data, and visualizes the frequency data as bars on a canvas element.
+
+Features
+Upload and visualize any audio file.
+Dynamic visualization of audio frequency data.
+Responsive canvas that adjusts to the size of the container.
+Technologies Used
+HTML5
+JavaScript
+Web Audio API
+Canvas API
+How to Use
+Clone this repository to your local machine.
+Open index.html in your web browser.
+Click the "Choose File" button to upload an audio file.
+Watch the visualizer display the frequency data of the uploaded audio file.
