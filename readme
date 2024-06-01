@@ -1,4 +1,5 @@
 Audio Visualizer
+
 This project is a simple audio visualizer that reads an audio file, processes its data, and visualizes the frequency data as bars on a canvas element.
 
 Features
@@ -15,3 +16,15 @@ Clone this repository to your local machine.
 Open index.html in your web browser.
 Click the "Choose File" button to upload an audio file.
 Watch the visualizer display the frequency data of the uploaded audio file.
+Installation
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/your-username/audio-visualizer.git
+Navigate to the project directory:
+bash
+Copy code
+cd audio-visualizer
+Open the index.html file in your preferred web browser.
+Contributing
+Feel free to submit issues or pull requests if you have any improvements or bug fixes.
